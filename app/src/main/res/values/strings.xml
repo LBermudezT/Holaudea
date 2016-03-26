@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Holaudea</string>
+    <string name="Saludo">Hola ude@</string>
+    <string name="Box">Mi Princesa</string>
+    <string name="Boton">Mi Flacu</string>
+    <string name="Titulo">Formulario</string>
+    <string name="To">To</string>
+    <string name="Subject">Subject</string>
+    <string name="Send">Send</string>
+    <string name="Message">Messaje</string>
+</resources>
